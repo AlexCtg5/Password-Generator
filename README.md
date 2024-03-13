@@ -1,0 +1,1 @@
+Graphical User Interface (GUI) made in Python that generates random passwords for your personal accounts and saves them in a text file. Additionally, if you forget one, you can enter the name of the account/site for which you generated the password, and the GUI application will display it without requiring you to manually search the text file.
